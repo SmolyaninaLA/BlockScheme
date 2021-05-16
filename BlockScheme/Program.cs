@@ -23,7 +23,8 @@ namespace BlockScheme
                     User.ShowAds();
                 }
             }
-            Console.ReadKey();
+
+            Console.ReadKey(); 
         }
     }
 }
